@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Colab Notebooks/brain_tumor/train/images
+val: /content/drive/MyDrive/Colab Notebooks/brain_tumor/valid/images
+
+
+nc: 1
+names: ['tumor']
+
